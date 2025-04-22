@@ -1,5 +1,5 @@
 import React from 'react';
-import { Code, ShieldCheck, BarChart3, Globe, Smartphone, Cloud, Database, Cpu,Sliders ,  } from 'lucide-react';
+import { Code, Globe, Smartphone, Database, Cpu,Sliders } from 'lucide-react';
 
 interface Service {
   icon: React.ReactNode;
